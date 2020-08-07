@@ -1,0 +1,103 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-fznZeY cXRbIB"
+  >
+    <div
+      class="sc-AxheI hXwyfz"
+    >
+      <a
+        class="sc-Axmtr fPZzFT"
+        href="/"
+      >
+        <svg>
+          airbnb-logo.svg
+        </svg>
+      </a>
+      <div
+        class="sc-fzpans gxQYMb"
+      >
+        <div
+          class="sc-fzoLsD gsVVeL"
+        />
+        <div
+          class="sc-fzoLsD gsVVeL"
+        />
+        <div
+          class="sc-fzoLsD gsVVeL"
+        />
+      </div>
+      <div
+        class="sc-AxmLO eGtqHV"
+      >
+        <div
+          class="sc-fzplWN jEsRWX"
+        >
+          <input
+            class="sc-fznKkj bIKWWN"
+            data-testid="theme-toggle"
+            type="checkbox"
+          />
+          <label
+            class="sc-fznyAO lcRGoX"
+          >
+            <svg>
+              night-icon.svg
+            </svg>
+            <svg>
+              sunny-icon.svg
+            </svg>
+          </label>
+        </div>
+        <a
+          class="sc-fzozJi ifUFtV"
+          data-testid="nav-item"
+          href="/contact"
+        >
+          Become a host
+        </a>
+        <a
+          class="sc-fzozJi ifUFtV"
+          href="/help"
+        >
+          Help
+        </a>
+        <a
+          class="sc-fzozJi ifUFtV"
+          href="/signup"
+        >
+          Sign up
+        </a>
+        <a
+          class="sc-fzozJi ifUFtV"
+          href="/login"
+        >
+          Log in
+        </a>
+      </div>
+    </div>
+    <div
+      class="sc-AxjAm gkmDfo"
+    >
+      <div
+        class="sc-AxirZ jtzvsX"
+      >
+        <svg
+          class="sc-AxiKw iMvZmN"
+          fill="#484848"
+        >
+          search-icon.svg
+        </svg>
+        <input
+          class="sc-AxhCb eedRhO"
+        />
+      </div>
+      <ul
+        class="sc-AxhUy hbdujl"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
